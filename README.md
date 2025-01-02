@@ -1,6 +1,6 @@
-# Kafka Producer
+# Kafka Consumer
 
-This is a simple Kafka Producer application built with Spring Boot.
+This is a simple Kafka Consumer application built with Spring Boot.
 
 ## Prerequisites
 
